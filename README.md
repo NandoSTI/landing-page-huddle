@@ -22,7 +22,7 @@
 
 <img src="./images/ipad-huddle.gif" alt="Tela tablet exibindo funcionalidades">
 
-#### Tela Responsiva
+#### Tela Mobile
 
 <img src="./images/mobile-huddle.gif" alt="Exibindo responsividade no mobile">
 
