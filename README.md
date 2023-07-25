@@ -28,7 +28,7 @@
 
 ### Links
 
-- Site URL: https://flash-cards-proverbios.vercel.app/
+- Site URL: https://nandosti.github.io/landing-page-huddle/
 
 ### Construído com
 
