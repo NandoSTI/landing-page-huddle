@@ -1,6 +1,6 @@
 # landing page huddle
 
-#### Landing page huddle é um desafio do Frontend Mentor feito com HTML e CSS. Esse projeto, apresar de ser uma landing page, traz elementos de nível avançado nessas linguagens. Obrigado por cgegar até aqui e confira o código.
+#### Landing page huddle é um desafio do Frontend Mentor feito com HTML e CSS. Esse projeto, apresar de ser uma landing page, traz elementos de nível avançado nessas linguagens. Obrigado por chegar até aqui. Confira o código.
 
 ## Índice
 
@@ -56,9 +56,7 @@ Nesse projeto envolvendo HTML e CSS, aprendi conceitos importantes. Através do 
 
     .container .wrapper .main .hero-text h1{
         font-size: 26px;
-    }## Agradecimentos
-
-Gostaria de agradecer a toda comunidade do DEVQUEST: monitores, alunos e toda a equipe técnica que sempre está de prontidão para ajudar no que for preciso. Deixo aqui um abraço a todos que fazem parte desse projeto. Agradecer ao meu grupo de crescimento GC Kennedy que tem contribuido muito para o meu crescimento pessoal.
+    }
 
     .container .wrapper .social{
         text-align: center;
